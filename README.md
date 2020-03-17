@@ -1,5 +1,7 @@
 # AWS Lambda Terraform module
 
+Terraform module which creates EC2 resources on AWS.
+
 ## Requiirements
 
 - Terraform version > 0.12
